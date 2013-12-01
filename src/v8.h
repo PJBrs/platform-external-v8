@@ -52,6 +52,7 @@
 #endif
 
 // Basic includes
+#include <string.h>
 #include "../include/v8.h"
 #include "globals.h"
 #include "checks.h"
